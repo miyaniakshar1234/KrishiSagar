@@ -5,8 +5,10 @@ const nextConfig: NextConfig = {
   /* config options here */
   images: {
     domains: ['images.unsplash.com'],
+    unoptimized: true,
   },
   i18n,
+  output: 'export',
 };
 
 export default nextConfig;
