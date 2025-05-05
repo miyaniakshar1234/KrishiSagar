@@ -1,0 +1,50 @@
+{
+    "hero": {
+      "welcome": "WELCOME TO",
+      "tagline": "The Agriculture Ocean",
+      "description": "A comprehensive agriculture ecosystem combining AI, IoT, and community support to revolutionize farming with sustainable organic practices that empower farmers, stores, brokers, and consumers.",
+      "button1": "Get Started",
+      "button2": "Discover More",
+      "badge": "Smart Agriculture Ecosystem"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "community": "Community",
+      "contact": "Contact"
+    },
+    "stats": {
+      "farmers": "Active Farmers",
+      "stores": "Agro Stores",
+      "states": "States Covered",
+      "experts": "Agriculture Experts"
+    },
+    "features": {
+      "title": "KEY FEATURES FOR USERS",
+      "farmer": {
+        "title": "Farmer Dashboard",
+        "feature1": "Daily crop monitoring with AI analysis",
+        "feature2": "Financial tracking of all transactions",
+        "feature3": "KrishiGram farming social network"
+      },
+      "store": {
+        "title": "Agro Store Management",
+        "feature1": "GST-compliant digital billing system",
+        "feature2": "Inventory and stock management",
+        "feature3": "AI alerts for demand forecasting"
+      },
+      "broker": {
+        "title": "Market Operations",
+        "feature1": "Digital sales receipt management",
+        "feature2": "Blockchain-verified transactions",
+        "feature3": "Market price trend monitoring"
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Farming?",
+      "description": "Join thousands of farmers across India revolutionizing agriculture with AI-powered crop analysis, organic farming techniques, and a supportive community on कृषि सागर.",
+      "button1": "Register Now",
+      "button2": "Watch Demo"
+    }
+  }

@@ -1,0 +1,147 @@
+// Sample inventory products for the store owner dashboard
+export const inventoryProducts = [
+  {
+    id: '1',
+    name: 'Organic Fertilizer',
+    category: 'fertilizers',
+    stock: 5,
+    minStock: 10,
+    price: 450,
+    cost: 370,
+    supplier: 'Organic Solutions Ltd',
+    lastOrder: '15 Jun 2023',
+    isPopular: true
+  },
+  {
+    id: '2',
+    name: 'NPK 10:26:26',
+    category: 'fertilizers',
+    stock: 8,
+    minStock: 15,
+    price: 580,
+    cost: 450,
+    supplier: 'Gujarat Chemicals',
+    lastOrder: '22 Jun 2023',
+    isPopular: false
+  },
+  {
+    id: '3',
+    name: 'Neem Oil',
+    category: 'pesticides',
+    stock: 3,
+    minStock: 12,
+    price: 350,
+    cost: 280,
+    supplier: 'Organic Solutions Ltd',
+    lastOrder: '28 Jun 2023',
+    isPopular: true
+  },
+  {
+    id: '4',
+    name: 'Rice Seeds (IR-36)',
+    category: 'seeds',
+    stock: 7,
+    minStock: 20,
+    price: 120,
+    cost: 85,
+    supplier: 'Gujarat Seeds Ltd',
+    lastOrder: '10 Jul 2023',
+    isPopular: true
+  },
+  {
+    id: '5',
+    name: 'Plant Growth Regulator',
+    category: 'fertilizers',
+    stock: 4,
+    minStock: 8,
+    price: 320,
+    cost: 250,
+    supplier: 'Agri Chem Corp',
+    lastOrder: '05 Jul 2023',
+    isPopular: false
+  },
+  {
+    id: '6',
+    name: 'Wheat Seeds',
+    category: 'seeds',
+    stock: 15,
+    minStock: 10,
+    price: 140,
+    cost: 95,
+    supplier: 'Gujarat Seeds Ltd',
+    lastOrder: '18 Jul 2023',
+    isPopular: false
+  },
+  {
+    id: '7',
+    name: 'Irrigation Kit',
+    category: 'equipment',
+    stock: 6,
+    minStock: 5,
+    price: 1200,
+    cost: 950,
+    supplier: 'Farm Tech Solutions',
+    lastOrder: '25 Jul 2023',
+    isPopular: true
+  },
+  {
+    id: '8',
+    name: 'Soil Testing Kit',
+    category: 'equipment',
+    stock: 12,
+    minStock: 5,
+    price: 800,
+    cost: 650,
+    supplier: 'AgriTech Instruments',
+    lastOrder: '15 Jul 2023',
+    isPopular: false
+  },
+  {
+    id: '9',
+    name: 'Liquid Micronutrients',
+    category: 'fertilizers',
+    stock: 20,
+    minStock: 10,
+    price: 250,
+    cost: 180,
+    supplier: 'Agri Chem Corp',
+    lastOrder: '30 Jun 2023',
+    isPopular: true
+  },
+  {
+    id: '10',
+    name: 'Garden Tools Set',
+    category: 'equipment',
+    stock: 8,
+    minStock: 5,
+    price: 950,
+    cost: 750,
+    supplier: 'Farm Tech Solutions',
+    lastOrder: '12 Jul 2023',
+    isPopular: false
+  },
+  {
+    id: '11',
+    name: 'Vegetable Seeds Mix',
+    category: 'seeds',
+    stock: 0,
+    minStock: 15,
+    price: 180,
+    cost: 130,
+    supplier: 'Gujarat Seeds Ltd',
+    lastOrder: '20 Jun 2023',
+    isPopular: true
+  },
+  {
+    id: '12',
+    name: 'Cotton Seeds',
+    category: 'seeds',
+    stock: 18,
+    minStock: 10,
+    price: 160,
+    cost: 110,
+    supplier: 'Gujarat Seeds Ltd',
+    lastOrder: '15 Jul 2023',
+    isPopular: false
+  }
+]; 

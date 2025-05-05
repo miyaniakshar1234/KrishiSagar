@@ -1,0 +1,83 @@
+i want to make a application and Web-site for use in Agriculture
+
+in this app a farmer can make account in this app and they can manage their financial management
+- they can see their purtched items medicines from agro stores and which agro store and when
+- they can see their sold items crops in which market and through who broker
+- they can make their profile as a seller they can upload their items for sall in their profile
+- and the other farms or any organization or any civilians can contact the farmer and purtches that items from the farmer
+- farmers can make community
+- farmers can see the full details of any crops medicines and they can make a rearview video or comment
+- farmers can store and calculate their porches and sold items details
+- farmers can see the able to know the market prise of past and the probability or feature price of the particular crops
+- they can know the peats and Disease of theirs crops and suggest the best medicines and the farmers can see know the reviews and the reviews video is taken from other farmers
+- and they can know that the that medicines is available in which agro stores
+- farmers can make video as a this (Instagram reels, and you tube video or shorts)
+- and other farmers can see that video like Instagram reels or you tube video
+- and they can search a video or information of particular topics
+- and they can search or open the any section of the application using voice search or manually
+- farmers can chat with other farmers from this app 
+- and they can follow and have a followers like Instagram
+- and any farers or experts can make their channel and they can upload the their suggestion or videos
+- (and add some feature for this topics)
+
+
+** organic farming::
+-- that topic is main motive of our project 
+- farmers can know the all the information of organic farming
+- they can know the advantages
+- they can know the difference between organic and chemically farming
+- this app can suggest the many organic medicines or methods or organic farming
+- and even farmers can make an video of their knowledge of organic farming
+- (and add some feature for this topics)
+
+** Agro stores::
+--that topics about the agro stores owner
+- they have to register in this app or website and they can use this app
+- in this app owner can make bill or farmers porches
+- when any farmer porches and items from any store the owner input the farmer mobile no or user id and add items in their account and make a bill
+- and that bill add in farmer account and owner account the bill can be printable(this bill is original copy with GST)
+- agro stores can announce of any new items or any topics about 
+- that announcement is show in the community of farmers of agro stores
+- can create a community of agro stores 
+- agro store owner can manage their account of finance
+- they can know the stocks or their selling details and add more items and add stocks
+- (and add some feature for this topics)
+
+** Market Employee(Brokers:)::
+--that topics about crops markets
+- they have to register in this app or website and they can use this app
+- when any farmer see their crops or items in market through a broker then a broker have to make a bill using this app and he have to add the farmers sold item detail in the farmer account using farmer mobile no or use id\
+  this detail show on both account farmer and broker
+- - (and add some feature for this topics)
+
+**Agriculture Students::
+-- (and add some feature for this topics)
+
+** water management and irrigation system::
+- (and add some feature for this topics)
+
+** Farmers to consumer marketplace::
+- (and add some feature for this topics)
+
+** Weather forecasting and alert System::
+- (and add some feature for this topics)
+
+** farmers Finial management::
+- (and add some feature for this topics)
+
+** Community-Support Agriculture::
+- (and add some feature for this topics)
+
+** Sustainable farming Practices Guide::
+- (and add some feature for this topics)
+
+**(and add some feature which impact in agriculture and organics farming)
+
+
+***************************************************************
+
+**--- this app available in Gujarati, Hindi and English language
+
+ -> when a user create a account in that time they can select their language
+ -> selected language is applied in every content of the profile and account
+ -> they can change the language after creating account when they want
