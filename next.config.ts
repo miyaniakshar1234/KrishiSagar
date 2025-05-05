@@ -9,6 +9,9 @@ const nextConfig: NextConfig = {
   },
   i18n,
   output: 'export',
+  basePath: process.env.GITHUB_ACTIONS ? '/KrishiSagar' : '',
+  assetPrefix: process.env.GITHUB_ACTIONS ? '/KrishiSagar/' : '',
+  trailingSlash: true,
 };
 
 export default nextConfig;
